@@ -1,6 +1,6 @@
 ```
 Author:CEWEN CHI
-Object: MUS95G
+Object: MUS95W
 Institution: UCSD
 reference: syllabus, Google
 ```
