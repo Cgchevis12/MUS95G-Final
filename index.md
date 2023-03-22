@@ -1,3 +1,12 @@
+```
+//
+Author:CEWEN CHI
+Object: MUS95G
+Institution: UCSD
+reference: syllabus, Google
+//
+```
+
 ## Describe Raga in as much detail as you can: 
 
 Indian classical music uses ragas, a melodic framework, for both composition and improvisation.
@@ -37,11 +46,4 @@ Dha Dhin Dhin Dha / Dha Dhin Dhin Dha / Dha Tin Tin Ta / Ta Dhin Dhin Dha
 
 There are several memorable moments during the occurrences. But the thing that most deeply affects me is how flexible Zakir Hussain's finger is when he plays the tala, performing the song in the traditional method. Also, he could produce noises with his mouse and repeat them with tala! amazing! It combines traditional and contemporary fashion. He demonstrated the allure of tala with his dance to the crowd.
 
-```
-//
-Author:CEWEN CHI
-Object: MUS95G
-Institution: UCSD
-reference: syllabus, Google
-//
-```
+
