@@ -1,10 +1,8 @@
 ```
-//
 Author:CEWEN CHI
 Object: MUS95G
 Institution: UCSD
 reference: syllabus, Google
-//
 ```
 
 ## Describe Raga in as much detail as you can: 
